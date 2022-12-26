@@ -11,8 +11,8 @@ Built fully functional Java Backend for food ordering app using Spring Boot, Mon
 
 # Features
  - Performed Searching of nearest restaurants and delivery executives using Geospatial data from MongoDB.
- - Implemented caching mechanism using Redis.
- - Performed user authentication mechanism using Spring Security and JWT. 
+ - Implemented API caching mechanism using Redis.
+ - Performed user authentication and session management using Spring Security and JWT. 
 
 
 ###  Customer Service
